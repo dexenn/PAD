@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HC3Bss+WAWephAkItcPHB9Xu8C/z1mUNr37rwhUjEbBhCpQsOmKYoiR0ap+VZ4MRKcNs+jyjXp3sTD8AdEIm9g==",
+  "success": true,
+  "projectFilePath": "D:\\Programarea Aplicatiilor Distribuite\\LAB_1\\Agent Mesagerie\\Publisher\\Publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rektelel\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
