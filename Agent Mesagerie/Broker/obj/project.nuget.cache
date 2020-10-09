@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JOd0+oOmQ8H/YHHylxevw7pZ/uXGG6hocK7i1yD0xntbdattNzRqJe2ilZw4JSvNWiy4GuGla0Z5bDjZxXDEIg==",
+  "success": true,
+  "projectFilePath": "D:\\Programarea Aplicatiilor Distribuite\\LAB_1\\Agent Mesagerie\\Broker\\Broker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rektelel\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
